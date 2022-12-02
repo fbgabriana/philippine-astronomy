@@ -2,7 +2,9 @@
 
 # Philippine Astronomy Magazine
 
-This folder contains the Philippine Astronomy Magazine, which began as [miniproject1](/miniproject1/). It was forked to continue development after the submission of the project.
+KodeGo Mini-Project 1: A Philippine astronomy web magazine. Under continuous development.
+
+![screenshot](screenshot.png)
 
 * [View the site](home/){:target="_projectpage"}
 
