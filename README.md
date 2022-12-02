@@ -6,5 +6,7 @@ KodeGo Mini-Project 1: A Philippine astronomy web magazine. Under continuous dev
 
 * [View the site](home/){:target="_projectpage"}
 
+* [View the source](https://github.com/fbgabriana/philippine-astronomy){:target="_projectsource"}
+
 ![screenshot](screenshot.svg)
 
