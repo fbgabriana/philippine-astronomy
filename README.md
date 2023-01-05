@@ -1,4 +1,4 @@
-## [https://fbgabriana.github.io/](/ "Bamm's KodeGo Repository") / [philippine-astronomy](/philippine-astronomy/)
+## [fbgabriana.github.io](/ "Bamm's KodeGo Repository") / [philippine-astronomy](/philippine-astronomy/)
 
 # Philippine Astronomy Magazine
 
